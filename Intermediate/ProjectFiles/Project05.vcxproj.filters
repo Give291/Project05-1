@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Project05.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Project05.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Project05Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Project05">
+      <UniqueIdentifier>{AFF74DCB-7FFC-35CC-AF14-1D4390E6127E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Project05\Project05.Build.cs">
+      <Filter>Source\Project05</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Project05\Project05.cpp">
+      <Filter>Source\Project05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project05\Project05.h">
+      <Filter>Source\Project05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project05\Project05Character.cpp">
+      <Filter>Source\Project05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project05\Project05Character.h">
+      <Filter>Source\Project05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project05\Project05GameMode.cpp">
+      <Filter>Source\Project05</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Project05\Project05GameMode.h">
+      <Filter>Source\Project05</Filter>
+    </ClCompile>
+    <Filter Include="Source\Project05\Private">
+      <UniqueIdentifier>{090BE59C-C8EA-33BF-A355-7CB0D4E0AC56}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Project05\Private\MyActor1.cpp">
+      <Filter>Source\Project05\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Project05\Public">
+      <UniqueIdentifier>{DA9926B6-850F-31C9-9B5F-1DA6161D6826}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Project05\Public\MyActor1.h">
+      <Filter>Source\Project05\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

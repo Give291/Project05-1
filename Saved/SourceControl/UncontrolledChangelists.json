@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/C++/Project05/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/C++/Project05/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/1A/NBMT5MULG8FESKG6MZ3PM9.uasset"
+			]
+		}
+	]
+}
